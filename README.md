@@ -9,6 +9,6 @@ This project was completed as guided by The Odin Project Javascript Restaurant P
 * WebPack
 
 ## Usage
-Home- Return to the Home Page
-Menu- Some of the drinks and food available
-About- About Section
+* Home- Return to the Home Page
+* Menu- Some of the drinks and food available
+* About- About Section
